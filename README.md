@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Samyakborkar12/Samyakborkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋 I'm Samyak Borkar
+
+💻 First-Year IT Engineering Student
+
+## 🚀 About Me
+- Passionate about Web Development
+- Learning JavaScript, Python & React
+- Building real-world projects
+- Open to internships and collaborations
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+
+## 📌 Featured Projects
+### QueueLess India
+Smart queue management system.
+
+### SpendWise
+Personal expense tracker built with Flask and SQLite.
+
+### Amazon Clone
+Responsive e-commerce website inspired by Amazon.
+
+## 🌱 Currently Learning
+- React.js
+- Node.js
+- Data Structures & Algorithms
+
+## 📫 Connect With Me
+- GitHub: github.com/Samyakborkar12
