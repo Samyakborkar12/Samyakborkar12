@@ -3,7 +3,7 @@
 
 # Hi 👋 I'm Samyak Borkar
 
-💻 First-Year IT Engineering Student
+💻IT Engineering Student
 
 ## 🚀 About Me
 - Passionate about Web Development
